@@ -5,3 +5,5 @@ javascript & jQuery로
 제어(이벤트, 애니메이션....)를 한다.
 
 WEBAPP : jQueryMobile, React.js, Vue.js
+
+Repository gallery 수정본 올립니다
